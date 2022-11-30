@@ -76,7 +76,7 @@ virtual_ipaddress {
 ```
 
 ![1 noda master](https://github.com/ValeriiaKnyaz/sys-homework-10.1.-Keepalivedvrrp/blob/main/img/1noda.png)
-
+![2noda](https://github.com/ValeriiaKnyaz/sys-homework-10.1.-Keepalivedvrrp/blob/main/img/2noda.png)
 
 ---
 
