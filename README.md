@@ -74,9 +74,8 @@ virtual_ipaddress {
 }
 
 ```
-`При необходимости прикрепитe сюда скриншоты
+
 ![1 noda master](https://github.com/ValeriiaKnyaz/sys-homework-10.1.-Keepalivedvrrp/blob/main/img/1noda.png)
-![2 noda Backuo](https://github.com/ValeriiaKnyaz/sys-homework-10.1.-Keepalivedvrrp/blob/main/img/2noda.png)`
 
 
 ---
